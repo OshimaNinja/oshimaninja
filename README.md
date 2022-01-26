@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oshima Shohei</h1>
 <h3 align="center">A passionate full stack developer from Japan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshimaninja&label=Profile%20views&color=0e75b6&style=flat" alt="oshimaninja" /> </p>
+<p align="center">
+  <img align="center" src="logo.png" style = "width: -webkit-fill-available;"/>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshimaninja" alt="oshimaninja" /></a> </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" />
+<img align="right" src="https://img.shields.io/github/followers/oshimaninja?label=Follow&style=social" />
 
 - 🔭 I’m currently working on [MoonFaced](https://moonfaced.co.uk/)
 
